@@ -4,7 +4,7 @@ Interactive visualization dashboard in Python with Panel. This dashboard provide
 
 The dataset used in this project was gotten from `Our World In Data` which is a trusted Data source with real world raw data. The link to the github site where the original dataset is [HERE](https://github.com/owid/co2-data/blob/master/owid-co2-data.csv)
 
-Our world in Data site can be reached [HERE](https://ourworldindata.org/) where you can get real world raw data which is trusted for research 
+Our world in Data site can be reached [HERE](https://ourworldindata.org/) where you can get real world raw data which is trusted for Research and Media
 ## Introduction
 
 This dashboard provides an interactive environment for exploring and analyzing CO2 emissions data from 1750 to the present. It uses Python libraries like Pandas, NumPy, Panel, and HoloViews for data processing, visualization, and interactivity. The dashboard presents data-driven insights into global CO2 emissions trends and their relationships with various factors.
