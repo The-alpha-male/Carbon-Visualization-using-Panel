@@ -45,7 +45,6 @@ This bar plot showcases the distribution of CO2 emissions from different sources
 
 ## Dashboard Template
 The dashboard layout includes:
-
 - A title introducing the dashboard's purpose.
 - A sidebar with a brief description, a climate-related image, and the year slider.
 - Main sections containing visualizations and analysis components.
