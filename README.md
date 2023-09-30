@@ -1,5 +1,7 @@
 # World CO2 Emission Dashboard using Panel
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/69481921/227059754-a5ede781-2648-4e71-ab6d-cdfd3455eee6.png">
+
 Interactive visualization dashboard in Python with Panel. This dashboard provides interactive visualizations and data analysis for exploring global carbon dioxide (CO2) emissions over time, focusing on various aspects such as emissions by continent, CO2 sources, and their correlation with GDP per capita.
 
 The dataset used in this project was gotten from `Our World In Data` which is a trusted Data source with real world raw data. The link to the github site where the original dataset is [HERE](https://github.com/owid/co2-data/blob/master/owid-co2-data.csv)
@@ -58,6 +60,3 @@ The dashboard layout includes:
 
 ## Contributing
 Contributions to enhance this dashboard are welcome! You can contribute by adding new features, improving visualizations, optimizing code, or fixing issues. Please fork this repository, make your changes, and submit a pull request.
-
-
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/69481921/227059754-a5ede781-2648-4e71-ab6d-cdfd3455eee6.png">
