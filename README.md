@@ -23,7 +23,7 @@ You can install these libraries using the following command:
 ``` pip install pandas numpy panel hvplot ```
 
 
-If you want to see all the dependencies for this project, please see requirements.txt file.
+If you want to see all the dependencies for this project, please see [requirements.txt](https://github.com/The-alpha-male/Carbon-Visualization-using-Panel/blob/main/requirements.txt) file.
 
 To serve the dashboard locally, use the command:
 
